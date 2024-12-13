@@ -8,12 +8,6 @@
 
 <h2 align="left">About me</h2>
 
-###
-
-<p align="left">✨ student at yildiz technical university <br>📚 currently learning C language <br>🎯 Goals: AI and Robotics <br>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
