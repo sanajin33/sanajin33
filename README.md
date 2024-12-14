@@ -4,10 +4,6 @@
 
 <p align="left">My name is Sena , a Computer Engineering student , from Syria </p>
 
-###
-
-<h2 align="left">About me</h2>
-
 <h2 align="left">I code with</h2>
 
 ###
